@@ -7,7 +7,7 @@ import { useState } from "react";
 export function DeleteImage({data}: {data: iCloud}) {
     const [initialImage, setInitialImage] = useState(data);
 
-    <Button onClick={(e: any)=> {
-        setInitialImage((x)=> x.)
-    }}></Button>
+    // <Button onClick={(e: any)=> {
+    //    setInitialImage((x)=> x.)
+    //}}></Button>
 }
